@@ -1,0 +1,2 @@
+Poor Man's Forth for PuzzleNode puzzle #15:
+http://puzzlenode.com/puzzles/24

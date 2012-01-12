@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c27e4058-c140-49d6-9774-cb0ee46230b4" name="Default" comment="" />
+    <list default="true" id="c27e4058-c140-49d6-9774-cb0ee46230b4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.textile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="poormans_forth.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,10 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pmf.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pmf.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pmf.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="15" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.5703463">
+            <state line="71" column="15" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.textile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.textile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="32" selection-start="76" selection-end="76" vertical-scroll-proportion="0.018438177">
               <folding />
             </state>
           </provider>
@@ -47,15 +60,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pmf.rb" />
+        <option value="$PROJECT_DIR$/README.textile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1652" />
-    <option name="width" value="1648" />
-    <option name="height" value="1083" />
+    <option name="x" value="-1723" />
+    <option name="width" value="1720" />
+    <option name="height" value="1081" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -107,10 +121,10 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.sourceCode.Ruby" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Ruby.Unnamed">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -222,14 +236,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1652" y="0" width="1648" height="1083" extended-state="0" />
+    <frame x="-1723" y="0" width="1720" height="1081" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22727273" sideWeight="0.601686" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23067632" sideWeight="0.601686" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39831403" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -277,6 +291,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
@@ -323,7 +338,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pmf.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="15" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.5703463">
+        <state line="71" column="15" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.textile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="32" selection-start="76" selection-end="76" vertical-scroll-proportion="0.018438177">
           <folding />
         </state>
       </provider>
